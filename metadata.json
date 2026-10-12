@@ -1,0 +1,6 @@
+{
+  "name": "金色韶华 Golden Memory",
+  "description": "家庭相册共享平台 Golden Memory Family Photo Album App with Bilingual Support, Elder Mode, Dark Mode & Encryption",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
